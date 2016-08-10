@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Yamblz</string>
-    <string name="content">Hello</string>
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique rhoncus vehicula. Sed eget diam at sapien scelerisque rhoncus. Duis id convallis enim. Cras ex odio, pretium vitae risus nec, eleifend blandit magna. Nullam pretium ante auctor odio gravida, in tristique nunc tristique. Curabitur laoreet tempus massa vel feugiat. Sed vel suscipit turpis. Praesent mi nunc, egestas at lobortis eu, sodales ac arcu. Sed sollicitudin nisl non urna interdum, quis tincidunt ipsum varius.
+
+Nullam tincidunt finibus pellentesque. Integer sit amet turpis eget dui varius egestas. Nulla fringilla vestibulum massa, ut consequat arcu dignissim eu. Nullam sagittis molestie pharetra. Donec sit amet orci arcu. Nam luctus nisi at metus aliquet, a suscipit dui gravida. Vivamus elementum vestibulum dolor, dignissim rhoncus magna faucibus nec. Quisque pharetra lorem ac magna efficitur lacinia. Morbi sagittis lorem non pulvinar imperdiet. Suspendisse faucibus et ipsum sed volutpat. In et erat aliquet, auctor odio sit amet, varius erat. Phasellus venenatis accumsan tortor, eu aliquam tellus facilisis eu. Praesent at velit sed est laoreet consequat.</string>
 </resources>

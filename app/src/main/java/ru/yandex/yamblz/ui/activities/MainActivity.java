@@ -30,6 +30,7 @@ public class MainActivity extends BaseActivity {
             getSupportFragmentManager()
                     .beginTransaction()
                     .replace(R.id.main_frame_layout, new ContentFragment())
+                    .addToBackStack(null)
                     .commit();
         }
     }
